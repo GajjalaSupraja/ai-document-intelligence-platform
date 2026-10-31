@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+python-multipart
+pymupdf
+python-docx
+pydantic-settings
+streamlit
+sentence-transformers
+faiss-cpu
+pytest
+httpx
+ollama
+faster-whisper
